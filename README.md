@@ -1,6 +1,6 @@
 ## Hi 👋 
 
-<iframe src="https://giphy.com/embed/KX5nwoDX97AtPvKBF6" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/motion-graphics-animated-gif-animation-KX5nwoDX97AtPvKBF6">via GIPHY</a></p>
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXd0MmJoOTkwZHE4cGFjbzY4bGVzcGYyejlkcXZ1ZjdneDc5cGozeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX5nwoDX97AtPvKBF6/giphy.webp)
 <!--
 **Denis-Chornyi/Denis-Chornyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
