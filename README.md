@@ -1,4 +1,4 @@
-## Hi 👋 I'm Denis Chornyi
+## Hi 👋 and welcome. I'm Denis Chornyi
 
 ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXd0MmJoOTkwZHE4cGFjbzY4bGVzcGYyejlkcXZ1ZjdneDc5cGozeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX5nwoDX97AtPvKBF6/giphy.webp)
 <!--
