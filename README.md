@@ -1,8 +1,9 @@
 ## Hi 👋 
 
+ https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXd0MmJoOTkwZHE4cGFjbzY4bGVzcGYyejlkcXZ1ZjdneDc5cGozeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX5nwoDX97AtPvKBF6/giphy.webp
 <!--
 **Denis-Chornyi/Denis-Chornyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-(https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXd0MmJoOTkwZHE4cGFjbzY4bGVzcGYyejlkcXZ1ZjdneDc5cGozeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX5nwoDX97AtPvKBF6/giphy.webp)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
